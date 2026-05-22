@@ -77,13 +77,15 @@ I'm a passionate **AI Engineer and Machine Learning enthusiast** with an MSc in 
 
 | Project | Description | Tech |
 |---|---|---|
-| 🚗 **Driver Drowsiness Detection** | Dual-CNN real-time system — 96.79% eye detection accuracy at 25–30 FPS | OpenCV, TensorFlow, CNN |
-| 🗓️ **Automated Doctor Appointment System** | Zero-manual-intervention booking via RPA bots + Streamlit UI | UiPath, Streamlit, Python |
-| 📦 **Product Demand Forecasting** | Random Forest regression for supply chain optimisation (RMSE/R² validated) | Scikit-learn, Pandas |
-| 💬 **Sentiment Analysis (BERT + ML)** | Benchmarked classifiers on 1.6M tweets; fine-tuned BERT with live inference | BERT, HuggingFace, SVM |
-| 🛒 **Full-Stack E-Commerce Platform** | Amazon-inspired app with JWT auth, REST APIs, normalised DB | Django, React.js, SQL |
-| 📚 **Slack-Style LMS** | Course delivery platform with search, filtering, and responsive design | React.js, JavaScript |
-
+| 🧠 **Hybrid AI System for Lung Cancer Detection** | Multimodal healthcare AI system combining CT scan segmentation and clinical data prediction with 96% accuracy | U-Net, DenseNet121, XGBoost, TensorFlow |
+| 🚗 **Driver Drowsiness Detection** | Dual-CNN real-time monitoring system achieving 96.79% eye detection accuracy at 25–30 FPS | OpenCV, TensorFlow, CNN |
+| 💬 **Sentiment Analysis (BERT + ML)** | Fine-tuned BERT and benchmarked ML classifiers on 1.6M tweets with live sentiment inference | BERT, HuggingFace, SVM, Scikit-learn |
+| 🗓️ **Automated Doctor Appointment System** | Zero-manual-intervention healthcare scheduling system using RPA workflows and Streamlit UI | UiPath, Streamlit, Python |
+| 🏙️ **Urban Environment & Public Comfort Analytics** | Integrated multi-source environmental datasets to analyse pollution, energy usage, and public sentiment trends | Python, MongoDB, PostgreSQL, Pandas |
+| 📦 **Product Demand Forecasting** | Random Forest regression system for inventory and supply chain optimisation validated with RMSE and R² metrics | Scikit-learn, Pandas, NumPy |
+| ⚙️ **Predictive Maintenance using MDP** | Optimised maintenance scheduling using Markov Decision Processes and simulation-based policy evaluation | Python, MDP, Reinforcement Learning |
+| 🛒 **Full-Stack E-Commerce Platform** | Amazon-inspired scalable e-commerce application with authentication, REST APIs, and database integration | Django, React.js, SQL |
+| 📚 **Slack-Style LMS Platform** | Responsive learning platform with search, filtering, course delivery, and interactive frontend workflows | React.js, JavaScript |
 ---
 ## 💼 Experience
  
