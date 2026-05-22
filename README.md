@@ -104,7 +104,7 @@ I'm a passionate **AI Engineer and Machine Learning enthusiast** with an MSc in 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Phanikotha42&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="[https://github-profile-trophy.vercel.app/?username=Phanikotha42&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1](https://github-profile-trophy.vercel.app/?username=Phanikotha42&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&titles=Commits,Experience,Repositories,)" alt="GitHub Trophies"/>
 </div>
 
 ---
