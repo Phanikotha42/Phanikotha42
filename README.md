@@ -85,7 +85,14 @@ I'm a passionate **AI Engineer and Machine Learning enthusiast** with an MSc in 
 | 📚 **Slack-Style LMS** | Course delivery platform with search, filtering, and responsive design | React.js, JavaScript |
 
 ---
-
+## 💼 Experience
+ 
+| 🏢 Role | Company | 📅 Duration | 🔑 Highlights |
+|---|---|---|---|
+| **Freelance Application Tester** | Dynery *(Remote)* | Jan 2024 – Feb 2024 | UI & functional testing on iOS/Android; contributed to 2 successful patch releases |
+| **Full Stack Developer Trainee** | Digital Lync *(Training)* | May 2024 – Oct 2024 | 6-month program; built end-to-end apps with Django, React.js, REST APIs & Git |
+ 
+---
 ## 📊 GitHub Stats
 
 <div align="center">
