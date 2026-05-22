@@ -95,12 +95,14 @@ I'm a passionate **AI Engineer and Machine Learning enthusiast** with an MSc in 
 | **Full Stack Developer Trainee** | Digital Lync *(Training)* | May 2024 – Oct 2024 | 6-month program; built end-to-end apps with Django, React.js, REST APIs & Git |
  
 ---
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phanikotha42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phanikotha42&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Phanikotha42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phanikotha42&layout=compact&theme=tokyonight&hide_border=true" width="37%" />
+</p>
 
 <br/>
 
