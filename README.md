@@ -123,12 +123,16 @@ I'm a passionate **AI Engineer and Machine Learning enthusiast** with an MSc in 
 ## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/phanisai-kotha" target="_blank">
+  <a href="https://linkedin.com/in/phanisai-kotha-990a462a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Phanisai%20Kotha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://github.com/Phanikotha42" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Phanikotha42-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="mailto:phanirepala42@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-phanirepala42@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-phanirepala42%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
